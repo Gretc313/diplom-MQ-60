@@ -179,9 +179,9 @@ body {
   background-color: #323232;
 }
 
-/*.popup{
+.hidden {
   display: none;
-}*/
+}
 
 .header {
   background-image: url("../images/banner-bg.jpg");
@@ -537,7 +537,7 @@ justify-content: space-between;
   margin-top: 57px;
 }
 
-.hidden {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
